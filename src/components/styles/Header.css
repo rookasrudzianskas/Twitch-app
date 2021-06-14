@@ -29,3 +29,7 @@
     border-left: 1px solid #4a4a5c;
     height: 3rem;
 }
+
+.header__left > i {
+    margin-left: 15px;
+}
