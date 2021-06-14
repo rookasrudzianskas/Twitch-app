@@ -31,8 +31,9 @@ const Header = () => {
                     <div className="header__rightBits">
                         <i className="fas fa-gem"/>
                         <h4>Get Bits</h4>
-                        <Avatar />
                     </div>
+                    <Avatar />
+
                 </div>
             </div>
         </div>
