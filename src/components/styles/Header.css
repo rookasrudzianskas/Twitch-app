@@ -1,0 +1,22 @@
+.header {
+    height: 5rem;
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+    background-color: #18181b;
+    z-index: 100;
+    position: sticky;
+    top: 0;
+}
+
+.header__left {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.header__leftLogo {
+    object-fit: contain;
+    height: 3rem;
+    margin-left: 20px;
+}

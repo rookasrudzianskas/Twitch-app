@@ -1,18 +1,18 @@
 import React from 'react';
 import {Avatar} from "@material-ui/core";
+import "./styles/Header.css";
 
 const Header = () => {
     return (
         <div className="header">
             <div className="header__left">
-                <img className="header__leftLogo" src="https://cdn.pixabay.com/photo/2018/05/08/21/28/twitch-3384005_960_720.png" alt=""/>
+                <img className="header__leftLogo" src="https://snipstock.com/assets/cdn/png/6bd943cf1a28d665a6f38402c1bbf293.png" alt=""/>
                 <h2>Following</h2>
                 <h2>Browse</h2>
-                <div className="header__verticalLine">
+                <div className="header__verticalLine"/>
                     <h2>ESports</h2>
                     <h2>Music</h2>
                     <i className="fas fa-ellipsis-h"/>
-                </div>
             </div>
 
             <div className="header__center">
