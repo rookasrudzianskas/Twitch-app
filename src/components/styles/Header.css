@@ -33,3 +33,22 @@
 .header__left > i {
     margin-left: 15px;
 }
+
+.header__center {
+    background-color: #4a4a5c;
+    height: 3.5rem;
+    display: flex;
+    width: 25%;
+    border-radius: 8px;
+    overflow: hidden;
+    align-items: center;
+}
+
+.header__center > input {
+    outline: none;
+    background-color: transparent;
+    flex: 1;
+    margin-left: 15px;
+    font-size: large;
+    border: none;
+}
