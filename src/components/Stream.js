@@ -7,7 +7,7 @@ const Stream = () => {
                 <div className="stream__status">
                     <div className="stream__statusContainer">
                         <div className="stream__statusContainerTop">
-                            <div className="stream__statusIndicator">{indicator}</div>
+                            <div className="stream__statusIndicator">OFFLINE</div>
                             <h2>Check out the below streams for Rokas Rudzianskas</h2>
                         </div>
                         <div className="stream__statusInfo">
