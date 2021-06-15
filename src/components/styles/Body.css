@@ -1,0 +1,9 @@
+.body {
+    background-color: rgb(255, 153, 0);
+    background-image: url("https://i.pinimg.com/originals/a6/4b/f9/a64bf98ef5652a55fdd6c4ef2e871099.png");
+    background-size: cover;
+    flex: 1;
+    display: flex;
+    height: 100vh;
+    overflow: scroll;
+}
