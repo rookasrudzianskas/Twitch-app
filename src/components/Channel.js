@@ -8,7 +8,7 @@ const Channel = ({avatar, followers, name}) => {
                 <img src={avatar} alt=""/>
                 <p>{name}</p>
             </div>
-            <p>{followers}</p>
+            <p>🔴 {followers}</p>
         </div>
     );
 };
