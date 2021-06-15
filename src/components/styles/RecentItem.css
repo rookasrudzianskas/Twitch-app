@@ -10,10 +10,16 @@
 .item__details {
     display: flex;
     margin-top: 25px;
+    text-overflow: ellipsis;
 }
 
 .item__details > img {
     object-fit: contain;
     height: 60px;
     margin-right: 10px;
+}
+
+.item__detailsText > h4 {
+    text-overflow: ellipsis;
+    word-wrap: break-word;
 }

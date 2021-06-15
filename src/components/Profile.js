@@ -36,9 +36,7 @@ const Profile = () => {
                     <RecentItem url={"https://www.youtube.com/embed/UfGMj10wOzg"} title={' 🔴 Learn the MERN Stack - Full tutorial for beginners (Mongo DB, Express and more)'} />
                     <RecentItem url={"https://www.youtube.com/embed/UfGMj10wOzg"} title={' 🔴 Learn the MERN Stack - Full tutorial for beginners (Mongo DB, Express and more)'} />
                     <RecentItem url={"https://www.youtube.com/embed/UfGMj10wOzg"} title={' 🔴 Learn the MERN Stack - Full tutorial for beginners (Mongo DB, Express and more)'} />
-                    <RecentItem url={"https://www.youtube.com/embed/UfGMj10wOzg"} title={' 🔴 Learn the MERN Stack - Full tutorial for beginners (Mongo DB, Express and more)'} />
-                    <RecentItem url={"https://www.youtube.com/embed/UfGMj10wOzg"} title={' 🔴 Learn the MERN Stack - Full tutorial for beginners (Mongo DB, Express and more)'} />
-                    <RecentItem url={"https://www.youtube.com/embed/UfGMj10wOzg"} title={' 🔴 Learn the MERN Stack - Full tutorial for beginners (Mongo DB, Express and more)'} />
+
                 </div>
 
                 <div className="profile__categories">
