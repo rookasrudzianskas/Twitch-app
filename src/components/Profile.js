@@ -12,6 +12,12 @@ const Profile = () => {
                     <h3>830K followers</h3>
                 </div>
             </div>
+
+            <div className="profile__topRight">
+                <i className="fas fa-heart graybg"></i>
+                <i className="fas fa-bell graybg"></i>
+                <i className="fas fa-ellipsis-v"></i>
+            </div>
         </div>
     );
 };
