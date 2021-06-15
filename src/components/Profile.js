@@ -1,6 +1,7 @@
 import React from 'react';
 import "./styles/Profile.css";
 import RecentItem from "./RecentItem";
+import Stream from "./Stream";
 
 const Profile = () => {
     return (
